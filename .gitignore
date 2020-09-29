@@ -27,5 +27,9 @@ target/
 /.nb-gradle/
 build/
 
+
 ### VS Code ###
 .vscode/
+
+## Application Properties ##
+src/main/resources/bootstrap.properties
